@@ -52,7 +52,8 @@ Evaluation metric: F1 Score, focusing on minimizing false positives/negatives fo
 | 2     | spaCy + TF-IDF  | Logistic Regression | 0.88     | Balanced and consistent                    |
 | 3     | spaCy + TF-IDF  | LightGBM            | 0.87     | Slightly lower accuracy                    |
 | 4     | BERT Embeddings | Logistic Regression | 0.91\*   | On small subset only (slow on CPU)         |
- Final Choice: Model 2 — due to consistent predictions and balance between interpretability and performance.
+
+Final Choice: Model 2 — due to consistent predictions and balance between interpretability and performance.
 
 ## 💻 How to Install and Run
   1. Clone this repository:
