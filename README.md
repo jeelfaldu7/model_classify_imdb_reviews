@@ -75,3 +75,6 @@ This project was created as part of the TripleTen Data Science program. Special 
   - TripleTen instructors and peers for ongoing support and feedback.
   - Andrew L. Maas et al.: IMDB Review Dataset
   - spaCy, NLTK, scikit-learn open-source contributors
+
+## 🛡️ License
+This project is licensed under the MIT License.
